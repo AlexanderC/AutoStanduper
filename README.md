@@ -8,6 +8,8 @@ Apple Script that generates daily standup from GitHub activity.
   - Python 2.x and higher
   - Git
 
+> `Linux` users can reuse the [generator script](DailyStandupGenerator.app/bin/generator.sh) ;)
+
 # Installation
 
   - `git clone https://github.com/AlexanderC/AutoStanduper.git`
